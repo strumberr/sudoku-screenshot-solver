@@ -1,6 +1,6 @@
 # sudoku-screenshot-solver
-#author - strumber
-#github - https://github.com/strumberr
+# author - strumber
+# github - https://github.com/strumberr
 
 A script that solves sudokus by inputting a screenshot of them; it will return an image of the generated numbers and solutions
 
