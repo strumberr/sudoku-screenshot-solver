@@ -2,7 +2,7 @@
 # author - strumber
 # github - https://github.com/strumberr
 
-A script that solves sudokus by inputting a screenshot of them; it will return an image of the generated numbers and solutions
+A python script that solves sudokus by inputting a screenshot of them; it will return an image of the generated numbers and solutions
 
 This model does not recognize most fonts, font training pytesseract, will be necessary if it should be expanded.
 
